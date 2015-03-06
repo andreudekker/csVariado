@@ -1,0 +1,5 @@
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\LibParametros\bin\Debug\LibParametros.dll
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\LibParametros\bin\Debug\LibParametros.pdb
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\LibParametros\obj\Debug\LibParametros.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\LibParametros\obj\Debug\LibParametros.dll
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\LibParametros\obj\Debug\LibParametros.pdb

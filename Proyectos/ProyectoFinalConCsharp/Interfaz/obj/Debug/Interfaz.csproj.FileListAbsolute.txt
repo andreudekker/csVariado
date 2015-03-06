@@ -1,0 +1,6 @@
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Interfaz\obj\Debug\Interfaz.pdb
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Interfaz\obj\Debug\Interfaz.csprojResolveAssemblyReference.cache

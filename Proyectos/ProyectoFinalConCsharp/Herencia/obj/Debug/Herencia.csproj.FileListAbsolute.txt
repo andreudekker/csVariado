@@ -1,0 +1,6 @@
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Herencia\bin\Debug\Herencia.exe.config
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Herencia\bin\Debug\Herencia.exe
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Herencia\bin\Debug\Herencia.pdb
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Herencia\obj\Debug\Herencia.csprojResolveAssemblyReference.cache
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Herencia\obj\Debug\Herencia.exe
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Herencia\obj\Debug\Herencia.pdb

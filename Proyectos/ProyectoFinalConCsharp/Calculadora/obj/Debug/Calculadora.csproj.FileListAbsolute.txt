@@ -1,0 +1,9 @@
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Calculadora\bin\Debug\Calculadora.exe.config
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Calculadora\bin\Debug\Calculadora.exe
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Calculadora\obj\Debug\Calculadora.frmCalculadora.resources
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Calculadora\obj\Debug\Calculadora.exe
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Calculadora\obj\Debug\Calculadora.pdb

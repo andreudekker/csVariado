@@ -1,0 +1,13 @@
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\PruebaLibreriasWinform\bin\Debug\PruebaLibreriasWinform.exe.config
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\PruebaLibreriasWinform\bin\Debug\PruebaLibreriasWinform.exe
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\PruebaLibreriasWinform\bin\Debug\PruebaLibreriasWinform.pdb
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\PruebaLibreriasWinform\bin\Debug\LibConexionBD.dll
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\PruebaLibreriasWinform\bin\Debug\LibParametros.dll
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\PruebaLibreriasWinform\bin\Debug\LibConexionBD.pdb
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\PruebaLibreriasWinform\bin\Debug\LibParametros.pdb
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\PruebaLibreriasWinform\obj\Debug\PruebaLibreriasWinform.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\PruebaLibreriasWinform\obj\Debug\PruebaLibreriasWinform.Form1.resources
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\PruebaLibreriasWinform\obj\Debug\PruebaLibreriasWinform.Properties.Resources.resources
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\PruebaLibreriasWinform\obj\Debug\PruebaLibreriasWinform.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\PruebaLibreriasWinform\obj\Debug\PruebaLibreriasWinform.exe
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\PruebaLibreriasWinform\obj\Debug\PruebaLibreriasWinform.pdb

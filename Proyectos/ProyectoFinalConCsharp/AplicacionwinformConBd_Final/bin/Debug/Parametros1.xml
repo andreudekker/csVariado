@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<parametros>
+  <servidor>.</servidor>
+  <basedeDatos>Facturacion</basedeDatos>
+  <usuario></usuario>
+  <clave></clave>
+  <seguridadIntegrada>True</seguridadIntegrada>
+</parametros>

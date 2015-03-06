@@ -1,0 +1,10 @@
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\SistemaWinFormBDFacturacion\bin\Debug\SistemaWinFormBDFacturacion.exe.config
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\SistemaWinFormBDFacturacion\bin\Debug\SistemaWinFormBDFacturacion.exe
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\SistemaWinFormBDFacturacion\bin\Debug\SistemaWinFormBDFacturacion.pdb
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\SistemaWinFormBDFacturacion\obj\Debug\SistemaWinFormBDFacturacion.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\SistemaWinFormBDFacturacion\obj\Debug\SistemaWinFormBDFacturacion.frmPrincipal.resources
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\SistemaWinFormBDFacturacion\obj\Debug\SistemaWinFormBDFacturacion.Properties.Resources.resources
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\SistemaWinFormBDFacturacion\obj\Debug\SistemaWinFormBDFacturacion.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\SistemaWinFormBDFacturacion\obj\Debug\SistemaWinFormBDFacturacion.exe
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\SistemaWinFormBDFacturacion\obj\Debug\SistemaWinFormBDFacturacion.pdb
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\SistemaWinFormBDFacturacion\obj\Debug\SistemaWinFormBDFacturacion.frmProductos.resources

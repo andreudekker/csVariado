@@ -1,0 +1,49 @@
+﻿@model IEnumerable<websiteMVC.Models.Product>
+
+@{
+    ViewBag.Title = "listarProductos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>listarProductos</h2>
+
+<br />
+@Html.ActionLink("Crear Producto","CrearProducto")
+
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductID)
+        </th>
+      
+        <th>
+            @Html.DisplayNameFor(model => model.UnitPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UnitsInStock)
+        </th>
+        
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductName)
+        </td>
+       
+        <td>
+            @Html.DisplayFor(modelItem => item.UnitPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UnitsInStock)
+        </td>
+       
+   
+    </tr>
+}
+
+</table>

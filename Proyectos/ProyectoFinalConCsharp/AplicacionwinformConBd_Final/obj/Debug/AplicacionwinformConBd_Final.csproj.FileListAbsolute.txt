@@ -1,0 +1,11 @@
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\AplicacionwinformConBd_Final\bin\Debug\AplicacionwinformConBd_Final.exe.config
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\AplicacionwinformConBd_Final\bin\Debug\AplicacionwinformConBd_Final.exe
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\AplicacionwinformConBd_Final\bin\Debug\AplicacionwinformConBd_Final.pdb
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\AplicacionwinformConBd_Final\obj\Debug\AplicacionwinformConBd_Final.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\AplicacionwinformConBd_Final\obj\Debug\AplicacionwinformConBd_Final.Properties.Resources.resources
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\AplicacionwinformConBd_Final\obj\Debug\AplicacionwinformConBd_Final.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\AplicacionwinformConBd_Final\obj\Debug\AplicacionwinformConBd_Final.exe
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\AplicacionwinformConBd_Final\obj\Debug\AplicacionwinformConBd_Final.pdb
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\AplicacionwinformConBd_Final\obj\Debug\AplicacionwinformConBd_Final.frmPrincipal.resources
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\AplicacionwinformConBd_Final\obj\Debug\AplicacionwinformConBd_Final.frmProductos.resources
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\AplicacionwinformConBd_Final\bin\Debug\LibParametros.pdb

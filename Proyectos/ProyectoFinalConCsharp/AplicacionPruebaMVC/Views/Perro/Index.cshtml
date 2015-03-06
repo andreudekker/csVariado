@@ -1,0 +1,18 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <p>Cual es su apellido : @ViewBag.apellido</p> <!--Dato con viewbag sale del controlador-->
+        <p>Me recuerda su nombre:@ViewData["Nombre es:"]</p><!--No es Dinamico se escribe por array admite espacios-->
+    </div>
+</body>
+</html>

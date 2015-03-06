@@ -1,0 +1,6 @@
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Foreach_DesarrollodeSoftware1\bin\Debug\Foreach_DesarrollodeSoftware1.exe.config
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Foreach_DesarrollodeSoftware1\obj\Debug\Foreach_DesarrollodeSoftware1.csprojResolveAssemblyReference.cache
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Foreach_DesarrollodeSoftware1\bin\Debug\Foreach_DesarrollodeSoftware1.exe
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Foreach_DesarrollodeSoftware1\bin\Debug\Foreach_DesarrollodeSoftware1.pdb
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Foreach_DesarrollodeSoftware1\obj\Debug\Foreach_DesarrollodeSoftware1.exe
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalConCsharp\Foreach_DesarrollodeSoftware1\obj\Debug\Foreach_DesarrollodeSoftware1.pdb

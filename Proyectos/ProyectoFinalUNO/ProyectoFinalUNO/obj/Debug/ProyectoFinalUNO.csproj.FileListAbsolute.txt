@@ -1,0 +1,13 @@
+c:\users\andreudekker\documents\visual studio 2013\Projects\ProyectoFinalUNO\ProyectoFinalUNO\bin\Debug\ProyectoFinalUNO.exe.config
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalUNO\ProyectoFinalUNO\bin\Debug\ProyectoFinalUNO.exe
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalUNO\ProyectoFinalUNO\bin\Debug\ProyectoFinalUNO.pdb
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalUNO\ProyectoFinalUNO\obj\Debug\ProyectoFinalUNO.Properties.Resources.resources
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalUNO\ProyectoFinalUNO\obj\Debug\ProyectoFinalUNO.csproj.GenerateResource.Cache
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalUNO\ProyectoFinalUNO\obj\Debug\ProyectoFinalUNO.exe
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalUNO\ProyectoFinalUNO\obj\Debug\ProyectoFinalUNO.pdb
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalUNO\ProyectoFinalUNO\obj\Debug\ProyectoFinalUNO.frmPrincipal.resources
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalUNO\ProyectoFinalUNO\obj\Debug\ProyectoFinalUNO.frmProductos.resources
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalUNO\ProyectoFinalUNO\bin\Debug\LibConexionBD.dll
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalUNO\ProyectoFinalUNO\bin\Debug\LibParametros.dll
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalUNO\ProyectoFinalUNO\bin\Debug\LibConexionBD.pdb
+C:\Users\AndreuDekker\documents\visual studio 2013\Projects\ProyectoFinalUNO\ProyectoFinalUNO\bin\Debug\LibParametros.pdb

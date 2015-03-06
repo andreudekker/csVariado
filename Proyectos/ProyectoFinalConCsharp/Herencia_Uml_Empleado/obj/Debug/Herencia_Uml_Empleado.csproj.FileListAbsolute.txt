@@ -1,0 +1,6 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2013\Projects\ProyectoFinalConCsharp\Herencia_Uml_Empleado\bin\Debug\Herencia_Uml_Empleado.exe.config
+C:\Users\AndreuDekker\Documents\Visual Studio 2013\Projects\ProyectoFinalConCsharp\Herencia_Uml_Empleado\obj\Debug\Herencia_Uml_Empleado.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Documents\Visual Studio 2013\Projects\ProyectoFinalConCsharp\Herencia_Uml_Empleado\bin\Debug\Herencia_Uml_Empleado.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2013\Projects\ProyectoFinalConCsharp\Herencia_Uml_Empleado\bin\Debug\Herencia_Uml_Empleado.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2013\Projects\ProyectoFinalConCsharp\Herencia_Uml_Empleado\obj\Debug\Herencia_Uml_Empleado.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2013\Projects\ProyectoFinalConCsharp\Herencia_Uml_Empleado\obj\Debug\Herencia_Uml_Empleado.pdb
