@@ -1,0 +1,30 @@
+C:\Users\Charles\Desktop\LayerControler\LayerControler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles\Desktop\LayerControler\LayerControler\bin\Debug\LayerControler.dll
+C:\Users\Charles\Desktop\LayerControler\LayerControler\bin\Debug\LayerControler.pdb
+C:\Users\Charles\Desktop\LayerControler\LayerControler\bin\Debug\LayerDB.dll
+C:\Users\Charles\Desktop\LayerControler\LayerControler\bin\Debug\LayerDB.pdb
+C:\Users\Charles\Desktop\LayerControler\LayerControler\obj\Debug\LayerControler.dll
+C:\Users\Charles\Desktop\LayerControler\LayerControler\obj\Debug\LayerControler.pdb
+C:\Users\Charles\Desktop\LayerControler\LayerControler\bin\Debug\LayerEncriptation.dll
+C:\Users\Charles\Desktop\LayerControler\LayerControler\bin\Debug\LayerEncriptation.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia\LayerControler\LayerControler\bin\Debug\LayerControler.dll
+C:\Users\Charles\Desktop\Sistema Farmacia\LayerControler\LayerControler\bin\Debug\LayerControler.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia\LayerControler\LayerControler\bin\Debug\LayerDB.dll
+C:\Users\Charles\Desktop\Sistema Farmacia\LayerControler\LayerControler\bin\Debug\LayerDB.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia\LayerControler\LayerControler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles\Desktop\Sistema Farmacia\LayerControler\LayerControler\obj\Debug\LayerControler.dll
+C:\Users\Charles\Desktop\Sistema Farmacia\LayerControler\LayerControler\obj\Debug\LayerControler.pdb
+C:\Users\AVALOS\Desktop\Sistema Farmacia\LayerControler\LayerControler\bin\Debug\LayerControler.dll
+C:\Users\AVALOS\Desktop\Sistema Farmacia\LayerControler\LayerControler\bin\Debug\LayerControler.pdb
+C:\Users\AVALOS\Desktop\Sistema Farmacia\LayerControler\LayerControler\bin\Debug\LayerDB.dll
+C:\Users\AVALOS\Desktop\Sistema Farmacia\LayerControler\LayerControler\bin\Debug\LayerDB.pdb
+C:\Users\AVALOS\Desktop\Sistema Farmacia\LayerControler\LayerControler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AVALOS\Desktop\Sistema Farmacia\LayerControler\LayerControler\obj\Debug\LayerControler.dll
+C:\Users\AVALOS\Desktop\Sistema Farmacia\LayerControler\LayerControler\obj\Debug\LayerControler.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia 2\LayerControler\LayerControler\bin\Debug\LayerControler.dll
+C:\Users\Charles\Desktop\Sistema Farmacia 2\LayerControler\LayerControler\bin\Debug\LayerControler.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia 2\LayerControler\LayerControler\bin\Debug\LayerDB.dll
+C:\Users\Charles\Desktop\Sistema Farmacia 2\LayerControler\LayerControler\bin\Debug\LayerDB.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia 2\LayerControler\LayerControler\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles\Desktop\Sistema Farmacia 2\LayerControler\LayerControler\obj\Debug\LayerControler.dll
+C:\Users\Charles\Desktop\Sistema Farmacia 2\LayerControler\LayerControler\obj\Debug\LayerControler.pdb

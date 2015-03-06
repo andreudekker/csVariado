@@ -1,0 +1,455 @@
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Presentacion.exe
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Presentacion.pdb
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Entidades.dll
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Negocios.dll
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Acceso_Datos.dll
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Entidades.pdb
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Negocios.pdb
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Acceso_Datos.pdb
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmCategorias.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmEmpleados.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaEmpleados.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmProductos.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.Imagenes.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.exe
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.pdb
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.exe
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.pdb
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmCategorias.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmClientes.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmEmpleados.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaCategorias.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaClientes.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaEmpleados.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaProductos.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaProductosParaVenta.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmProductos.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmVentas.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.Imagenes.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Presentacion.exe
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Presentacion.pdb
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\DevComponents.DotNetBar2.dll
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Entidades.dll
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Negocios.dll
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Acceso_Datos.dll
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Entidades.pdb
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Negocios.pdb
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Acceso_Datos.pdb
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.exe
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.pdb
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmContrato.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmEmpresa.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaContratos.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Presentacion.exe
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Presentacion.pdb
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Entidades.dll
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Negocios.dll
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Acceso_Datos.dll
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Entidades.pdb
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Negocios.pdb
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Acceso_Datos.pdb
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmCategorias.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmClientes.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmContrato.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmEmpleados.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmEmpresa.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaCategorias.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaClientes.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaContratos.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaEmpleados.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaProductos.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaProductosParaVenta.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmProductos.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmVentas.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.Imagenes.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarEmpleado.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarVendedor.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal2.resources
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarCliente.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\DevComponents.DotNetBar2.dll
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarCliente.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarEmpleado.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarVendedor.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmClientes.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmContrato.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmEmpresa.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaCategorias.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaClientes.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaContratos.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaProductos.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaProductosParaVenta.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal2.resources
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmVentas.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Presentacion.exe
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Presentacion.pdb
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Entidades.dll
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Negocios.dll
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Acceso_Datos.dll
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Entidades.pdb
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Negocios.pdb
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\bin\Debug\Acceso_Datos.pdb
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarCliente.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarEmpleado.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarVendedor.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmCategorias.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmClientes.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmContrato.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmEmpleados.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmEmpresa.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaCategorias.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaClientes.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaContratos.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaEmpleados.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmListaProductos.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal2.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmProductos.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmVentas.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.Imagenes.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Sistema de Ventas SAV\Sis_SAV\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarProductos.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Presentacion.exe
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Presentacion.pdb
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Entidades.dll
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Negocios.dll
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Acceso_Datos.dll
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Entidades.pdb
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Negocios.pdb
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Acceso_Datos.pdb
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarCliente.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarEmpleado.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarVendedor.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCategorias.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmClientes.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmContrato.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEmpleados.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEmpresa.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmLineaCredito.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaCategorias.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaClientes.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaContratos.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaEmpleados.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaProductos.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarProductos.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal2.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmProductos.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmVentas.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.Imagenes.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmAval.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmIngreso.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaAvales.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmRankingVendedores.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmSimuladorComisiones.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmAvisoLineaCredito.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrestamos.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCaja.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPago.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoCredito.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEgresos.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEntregaProductos.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmIngresoProductos.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\itextsharp.dll
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoInicial.resources
+D:\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmConsultaPrestamos.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.exe
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.pdb
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Presentacion.exe
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Presentacion.pdb
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Entidades.dll
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\itextsharp.dll
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Negocios.dll
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Acceso_Datos.dll
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Entidades.pdb
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Negocios.pdb
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Acceso_Datos.pdb
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmAval.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmAvisoLineaCredito.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarCliente.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarEmpleado.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarVendedor.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCaja.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCategorias.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmClientes.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmConsultaPrestamos.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmContrato.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEgresos.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEmpleados.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEmpresa.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEntregaProductos.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmIngreso.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmIngresoProductos.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmLineaCredito.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaAvales.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaCategorias.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaClientes.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaContratos.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaEmpleados.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaProductos.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarProductos.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPago.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoCredito.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoInicial.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrestamos.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal2.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmProductos.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmRankingVendedores.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmSimuladorComisiones.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmVentas.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.Imagenes.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Presentacion.exe
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Presentacion.pdb
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\DevComponents.DotNetBar2.dll
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Entidades.dll
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\itextsharp.dll
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Negocios.dll
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Acceso_Datos.dll
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Entidades.pdb
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Negocios.pdb
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Acceso_Datos.pdb
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmAval.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmAvisoLineaCredito.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarCliente.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarEmpleado.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarVendedor.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCaja.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCategorias.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmClientes.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmConsultaPrestamos.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmContrato.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEgresos.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEmpleados.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEmpresa.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEntregaProductos.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmIngreso.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmIngresoProductos.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmLineaCredito.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaAvales.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaCategorias.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaClientes.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaContratos.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaEmpleados.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaProductos.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarProductos.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPago.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoCredito.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoInicial.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrestamos.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal2.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmProductos.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmRankingVendedores.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmSimuladorComisiones.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmVentas.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.Imagenes.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEstadoCuenta.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoCuotas.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCierreCaja.resources
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPago2.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Presentacion.exe
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Presentacion.pdb
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\DevComponents.DotNetBar2.dll
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Entidades.dll
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\itextsharp.dll
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Negocios.dll
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Acceso_Datos.dll
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Entidades.pdb
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Negocios.pdb
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Acceso_Datos.pdb
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmAval.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmAvisoLineaCredito.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarCliente.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarEmpleado.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarVendedor.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCaja.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCategorias.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCierreCaja.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmClientes.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmConsultaPrestamos.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmContrato.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEgresos.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEmpleados.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEmpresa.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEntregaProductos.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEstadoCuenta.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmIngreso.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmIngresoProductos.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmLineaCredito.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaAvales.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaCategorias.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaClientes.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaContratos.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaEmpleados.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaProductos.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarProductos.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPago.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPago2.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoCredito.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoCuotas.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoInicial.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrestamos.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal2.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmProductos.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmRankingVendedores.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmSimuladorComisiones.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmVentas.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.Imagenes.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Presentacion.exe
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Presentacion.pdb
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\DevComponents.DotNetBar2.dll
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Entidades.dll
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\itextsharp.dll
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Negocios.dll
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Acceso_Datos.dll
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Entidades.pdb
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Negocios.pdb
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Acceso_Datos.pdb
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmAval.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmAvisoLineaCredito.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarCliente.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarEmpleado.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarVendedor.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCaja.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCategorias.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCierreCaja.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmClientes.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmConsultaPrestamos.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmContrato.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEgresos.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEmpleados.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEmpresa.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEntregaProductos.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEstadoCuenta.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmIngreso.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmIngresoProductos.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmLineaCredito.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaAvales.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaCategorias.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaClientes.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaContratos.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaEmpleados.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaProductos.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarProductos.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPago.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPago2.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoCredito.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoCuotas.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoInicial.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrestamos.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal2.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmProductos.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmRankingVendedores.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmSimuladorComisiones.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmVentas.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.Imagenes.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\UAP\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.exe
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.pdb
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Presentacion.exe
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Presentacion.pdb
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\DevComponents.DotNetBar2.dll
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Entidades.dll
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\itextsharp.dll
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Negocios.dll
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Acceso_Datos.dll
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Entidades.pdb
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Negocios.pdb
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\bin\Debug\Acceso_Datos.pdb
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmAval.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmAvisoLineaCredito.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarCliente.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarEmpleado.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarVendedor.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCaja.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCategorias.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmCierreCaja.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmClientes.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmConsultaPrestamos.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmContrato.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEgresos.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEmpleados.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEmpresa.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEntregaProductos.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmEstadoCuenta.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmIngreso.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmIngresoProductos.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmLineaCredito.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaAvales.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaCategorias.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaClientes.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaContratos.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaEmpleados.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmListaProductos.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmBuscarProductos.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPago.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPago2.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoCredito.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoCuotas.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPagoInicial.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrestamos.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmPrincipal2.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmProductos.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmRankingVendedores.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmSimuladorComisiones.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmVentas.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.Imagenes.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.Properties.Resources.resources
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Presentacion\obj\x86\Debug\Presentacion.FrmAcercade.resources
+C:\Users\EDWARD\Desktop\Sistema Ventas\Presentacion\obj\x86\Debug\Presentacion.exe
+C:\Users\EDWARD\Desktop\Sistema Ventas\Presentacion\obj\x86\Debug\Presentacion.pdb

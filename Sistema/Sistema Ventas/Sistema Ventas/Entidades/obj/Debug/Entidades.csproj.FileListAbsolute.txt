@@ -1,0 +1,35 @@
+G:\VII Ciclo\Analisis y diseño de sistemas\Sis_SAV\Entidades\obj\Debug\ResolveAssemblyReference.cache
+G:\VII Ciclo\Analisis y diseño de sistemas\Sis_SAV\Entidades\bin\Debug\Entidades.dll
+G:\VII Ciclo\Analisis y diseño de sistemas\Sis_SAV\Entidades\bin\Debug\Entidades.pdb
+G:\VII Ciclo\Analisis y diseño de sistemas\Sis_SAV\Entidades\obj\Debug\Entidades.dll
+G:\VII Ciclo\Analisis y diseño de sistemas\Sis_SAV\Entidades\obj\Debug\Entidades.pdb
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Entidades\bin\Debug\Entidades.dll
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Entidades\bin\Debug\Entidades.pdb
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Entidades\obj\Debug\ResolveAssemblyReference.cache
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Entidades\obj\Debug\Entidades.dll
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Entidades\obj\Debug\Entidades.pdb
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Entidades\bin\Debug\Entidades.dll
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Entidades\bin\Debug\Entidades.pdb
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Entidades\obj\Debug\ResolveAssemblyReference.cache
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Entidades\obj\Debug\Entidades.dll
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Entidades\obj\Debug\Entidades.pdb
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Entidades\bin\Debug\Entidades.dll
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Entidades\bin\Debug\Entidades.pdb
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Entidades\obj\Debug\ResolveAssemblyReference.cache
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Entidades\obj\Debug\Entidades.dll
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Entidades\obj\Debug\Entidades.pdb
+D:\Sistema de Ventas SAV\Sis_SAV.2\Entidades\bin\Debug\Entidades.dll
+D:\Sistema de Ventas SAV\Sis_SAV.2\Entidades\bin\Debug\Entidades.pdb
+D:\Sistema de Ventas SAV\Sis_SAV.2\Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\Sistema de Ventas SAV\Sis_SAV.2\Entidades\obj\Debug\Entidades.dll
+D:\Sistema de Ventas SAV\Sis_SAV.2\Entidades\obj\Debug\Entidades.pdb
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Entidades\bin\Debug\Entidades.dll
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Entidades\bin\Debug\Entidades.pdb
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Entidades\obj\Debug\Entidades.dll
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Entidades\obj\Debug\Entidades.pdb
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Entidades\bin\Debug\Entidades.dll
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Entidades\bin\Debug\Entidades.pdb
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Entidades\obj\Debug\Entidades.dll
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Entidades\obj\Debug\Entidades.pdb

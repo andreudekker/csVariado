@@ -1,0 +1,105 @@
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\Sistema_Farmaceutico.exe
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\Sistema_Farmaceutico.pdb
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.Bienbenida.resources
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Acceso.resources
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.Properties.Resources.resources
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.exe
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.pdb
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Principal.resources
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Usuario.resources
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerDB.dll
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.exe
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\Sistema_Farmaceutico.exe
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\Sistema_Farmaceutico.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerControler.dll
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerDB.dll
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerEncriptation.dll
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerControler.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerDB.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.Bienbenida.resources
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Acceso.resources
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Principal.resources
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Usuario.resources
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Venta.resources
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.Properties.Resources.resources
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.exe
+C:\Users\Charles\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.pdb
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Acceso.resources
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_BucarProductos.resources
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Busqueda.resources
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Medicamentos.resources
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Principal.resources
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Usuario.resources
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Venta.resources
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.Properties.Resources.resources
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\Sistema_Farmaceutico.exe
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\Sistema_Farmaceutico.pdb
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerControler.dll
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\WPFTaskbarNotifier.dll
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\WPFTaskbarNotifierExample.dll
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerDB.dll
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerEncriptation.dll
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerControler.pdb
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerDB.pdb
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.exe
+C:\Users\AVALOS\Desktop\Sistema Farmacia\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\Sistema_Farmaceutico.exe
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\Sistema_Farmaceutico.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerControler.dll
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\WPFTaskbarNotifier.dll
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\WPFTaskbarNotifierExample.dll
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerDB.dll
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerEncriptation.dll
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerControler.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\WPFTaskbarNotifier.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\WPFTaskbarNotifierExample.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerDB.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Acceso.resources
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_BucarProductos.resources
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Busqueda.resources
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Medicamentos.resources
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Principal.resources
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Usuario.resources
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Venta.resources
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.Properties.Resources.resources
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.exe
+C:\Users\Charles\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.pdb
+C:\Users\AVALOS\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.exe
+C:\Users\AVALOS\Desktop\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.pdb
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.exe
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.pdb
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\Sistema_Farmaceutico.exe
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\Sistema_Farmaceutico.pdb
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerControler.dll
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerDB.dll
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerEncriptation.dll
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerControler.pdb
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\WPFTaskbarNotifier.pdb
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\WPFTaskbarNotifierExample.pdb
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\bin\Debug\LayerDB.pdb
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Acceso.resources
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_BucarProductos.resources
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Busqueda.resources
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Medicamentos.resources
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Principal.resources
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Usuario.resources
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.frm_Venta.resources
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.Properties.Resources.resources
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SANCHEZ\Desktop\Compartir\Proyecto Final C#\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.exe
+C:\Users\SANCHEZ\Desktop\Compartir\Proyecto Final C#\Sistema Farmacia 2\Sistema_Farmaceutico\Sistema_Farmaceutico\obj\x86\Debug\Sistema_Farmaceutico.pdb

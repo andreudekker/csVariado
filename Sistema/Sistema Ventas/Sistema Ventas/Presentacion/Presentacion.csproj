@@ -1,0 +1,612 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3951D2A3-9E85-4FCE-9858-EDC02E620703}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Presentacion</RootNamespace>
+    <AssemblyName>Presentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>C:\Program Files\DotNetBar\Bin\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="Entidades">
+      <HintPath>..\Entidades\bin\Debug\Entidades.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Negocios, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Negocios\bin\Debug\Negocios.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAcercade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAcercade.Designer.cs">
+      <DependentUpon>FrmAcercade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAval.Designer.cs">
+      <DependentUpon>FrmAval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAvisoLineaCredito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAvisoLineaCredito.Designer.cs">
+      <DependentUpon>FrmAvisoLineaCredito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarCliente.Designer.cs">
+      <DependentUpon>FrmBuscarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarEmpleado.Designer.cs">
+      <DependentUpon>FrmBuscarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscarVendedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarVendedor.Designer.cs">
+      <DependentUpon>FrmBuscarVendedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCaja.Designer.cs">
+      <DependentUpon>FrmCaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCategorias.Designer.cs">
+      <DependentUpon>FrmCategorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCierreCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCierreCaja.Designer.cs">
+      <DependentUpon>FrmCierreCaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmClientes.Designer.cs">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsultaPrestamos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsultaPrestamos.Designer.cs">
+      <DependentUpon>FrmConsultaPrestamos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmContrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmContrato.Designer.cs">
+      <DependentUpon>FrmContrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEgresos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEgresos.Designer.cs">
+      <DependentUpon>FrmEgresos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmpleados.Designer.cs">
+      <DependentUpon>FrmEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmpresa.Designer.cs">
+      <DependentUpon>FrmEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEntregaProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEntregaProductos.Designer.cs">
+      <DependentUpon>FrmEntregaProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEstadoCuenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEstadoCuenta.Designer.cs">
+      <DependentUpon>FrmEstadoCuenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIngreso.Designer.cs">
+      <DependentUpon>FrmIngreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmIngresoProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmIngresoProductos.Designer.cs">
+      <DependentUpon>FrmIngresoProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLineaCredito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLineaCredito.Designer.cs">
+      <DependentUpon>FrmLineaCredito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListaAvales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListaAvales.Designer.cs">
+      <DependentUpon>FrmListaAvales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListaCategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListaCategorias.Designer.cs">
+      <DependentUpon>FrmListaCategorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListaClientes.Designer.cs">
+      <DependentUpon>FrmListaClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListaContratos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListaContratos.Designer.cs">
+      <DependentUpon>FrmListaContratos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListaEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListaEmpleados.Designer.cs">
+      <DependentUpon>FrmListaEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListaProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListaProductos.Designer.cs">
+      <DependentUpon>FrmListaProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscarProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarProductos.Designer.cs">
+      <DependentUpon>FrmBuscarProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPago.Designer.cs">
+      <DependentUpon>FrmPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPago2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPago2.Designer.cs">
+      <DependentUpon>FrmPago2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPagoCredito.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPagoCredito.Designer.cs">
+      <DependentUpon>FrmPagoCredito.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPagoCuotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPagoCuotas.Designer.cs">
+      <DependentUpon>FrmPagoCuotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPagoInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPagoInicial.Designer.cs">
+      <DependentUpon>FrmPagoInicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrestamos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrestamos.Designer.cs">
+      <DependentUpon>FrmPrestamos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal2.Designer.cs">
+      <DependentUpon>FrmPrincipal2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmProductos.Designer.cs">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRankingVendedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRankingVendedores.Designer.cs">
+      <DependentUpon>FrmRankingVendedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSimuladorComisiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSimuladorComisiones.Designer.cs">
+      <DependentUpon>FrmSimuladorComisiones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVentas.Designer.cs">
+      <DependentUpon>FrmVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Imagenes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Imagenes.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAcercade.resx">
+      <DependentUpon>FrmAcercade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAval.resx">
+      <DependentUpon>FrmAval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAvisoLineaCredito.resx">
+      <DependentUpon>FrmAvisoLineaCredito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscarCliente.resx">
+      <DependentUpon>FrmBuscarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscarEmpleado.resx">
+      <DependentUpon>FrmBuscarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscarVendedor.resx">
+      <DependentUpon>FrmBuscarVendedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCaja.resx">
+      <DependentUpon>FrmCaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCategorias.resx">
+      <DependentUpon>FrmCategorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCierreCaja.resx">
+      <DependentUpon>FrmCierreCaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmClientes.resx">
+      <DependentUpon>FrmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsultaPrestamos.resx">
+      <DependentUpon>FrmConsultaPrestamos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmContrato.resx">
+      <DependentUpon>FrmContrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEgresos.resx">
+      <DependentUpon>FrmEgresos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmpleados.resx">
+      <DependentUpon>FrmEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmpresa.resx">
+      <DependentUpon>FrmEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEntregaProductos.resx">
+      <DependentUpon>FrmEntregaProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEstadoCuenta.resx">
+      <DependentUpon>FrmEstadoCuenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIngreso.resx">
+      <DependentUpon>FrmIngreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmIngresoProductos.resx">
+      <DependentUpon>FrmIngresoProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLineaCredito.resx">
+      <DependentUpon>FrmLineaCredito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListaAvales.resx">
+      <DependentUpon>FrmListaAvales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListaCategorias.resx">
+      <DependentUpon>FrmListaCategorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListaClientes.resx">
+      <DependentUpon>FrmListaClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListaContratos.resx">
+      <DependentUpon>FrmListaContratos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListaEmpleados.resx">
+      <DependentUpon>FrmListaEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListaProductos.resx">
+      <DependentUpon>FrmListaProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscarProductos.resx">
+      <DependentUpon>FrmBuscarProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPago.resx">
+      <DependentUpon>FrmPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPago2.resx">
+      <DependentUpon>FrmPago2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPagoCredito.resx">
+      <DependentUpon>FrmPagoCredito.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPagoCuotas.resx">
+      <DependentUpon>FrmPagoCuotas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPagoInicial.resx">
+      <DependentUpon>FrmPagoInicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrestamos.resx">
+      <DependentUpon>FrmPrestamos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal2.resx">
+      <DependentUpon>FrmPrincipal2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmProductos.resx">
+      <DependentUpon>FrmProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRankingVendedores.resx">
+      <DependentUpon>FrmRankingVendedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSimuladorComisiones.resx">
+      <DependentUpon>FrmSimuladorComisiones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVentas.resx">
+      <DependentUpon>FrmVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagenes.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Imagenes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Document-Save-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Document-Save-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Edit-Redo-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-System-Log-Out-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Address-Book-New-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Media-Zip-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lectores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Media-Skip-Backward-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Media-Seek-Backward-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Media-Seek-Forward-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Media-Skip-Forward-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Edit-Redo-64 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Edit-Clear-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Applications-Utilities-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\devolucion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Network-Transmit-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sell.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Accessories-Text-Editor-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lectores_principal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lector.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carrito.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\carrito.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prestamo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comercio_online.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Bookmark-New-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dialog-Apply-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dialog-Apply-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Undelete-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Dialog-Question-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-User-Desktop-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Emblem-Shared-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Emblem-Money-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\devolucion1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User-Info-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Face-Cool-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add-Files-To-Archive-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Emblem-Symbolic-Link-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-View-Sort-Descending-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Document-New-641.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Document-New-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gold_Theme_Money_Dollars_clip_art_hight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buscar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buscar2_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add-Files-To-Archive-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\devolucion1_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-save-Zip-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Applications-Other-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono_dinero.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-System-Run-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gold_Theme_Money_Dollars_clip_art_hight1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-Camera-Video-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gnome-System-Search-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\equipo.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

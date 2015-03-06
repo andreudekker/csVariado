@@ -1,0 +1,25 @@
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\LayerDB\LayerDB\bin\Debug\LayerDB.dll
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\LayerDB\LayerDB\bin\Debug\LayerDB.pdb
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\LayerDB\LayerDB\obj\Debug\ResolveAssemblyReference.cache
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\LayerDB\LayerDB\obj\Debug\LayerDB.dll
+G:\CICLO V\DESARROLLO DE SOFTWARE\Proyecto-Final\LayerDB\LayerDB\obj\Debug\LayerDB.pdb
+C:\Users\Charles\Desktop\LayerDB\LayerDB\bin\Debug\LayerDB.dll
+C:\Users\Charles\Desktop\LayerDB\LayerDB\bin\Debug\LayerDB.pdb
+C:\Users\Charles\Desktop\LayerDB\LayerDB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles\Desktop\LayerDB\LayerDB\obj\Debug\LayerDB.dll
+C:\Users\Charles\Desktop\LayerDB\LayerDB\obj\Debug\LayerDB.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia\LayerDB\LayerDB\bin\Debug\LayerDB.dll
+C:\Users\Charles\Desktop\Sistema Farmacia\LayerDB\LayerDB\bin\Debug\LayerDB.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia\LayerDB\LayerDB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles\Desktop\Sistema Farmacia\LayerDB\LayerDB\obj\Debug\LayerDB.dll
+C:\Users\Charles\Desktop\Sistema Farmacia\LayerDB\LayerDB\obj\Debug\LayerDB.pdb
+C:\Users\AVALOS\Desktop\Sistema Farmacia\LayerDB\LayerDB\bin\Debug\LayerDB.dll
+C:\Users\AVALOS\Desktop\Sistema Farmacia\LayerDB\LayerDB\bin\Debug\LayerDB.pdb
+C:\Users\AVALOS\Desktop\Sistema Farmacia\LayerDB\LayerDB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\AVALOS\Desktop\Sistema Farmacia\LayerDB\LayerDB\obj\Debug\LayerDB.dll
+C:\Users\AVALOS\Desktop\Sistema Farmacia\LayerDB\LayerDB\obj\Debug\LayerDB.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia 2\LayerDB\LayerDB\bin\Debug\LayerDB.dll
+C:\Users\Charles\Desktop\Sistema Farmacia 2\LayerDB\LayerDB\bin\Debug\LayerDB.pdb
+C:\Users\Charles\Desktop\Sistema Farmacia 2\LayerDB\LayerDB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles\Desktop\Sistema Farmacia 2\LayerDB\LayerDB\obj\Debug\LayerDB.dll
+C:\Users\Charles\Desktop\Sistema Farmacia 2\LayerDB\LayerDB\obj\Debug\LayerDB.pdb

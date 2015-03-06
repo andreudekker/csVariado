@@ -1,0 +1,86 @@
+G:\VII Ciclo\Analisis y diseño de sistemas\Sis_SAV\Negocios\bin\Debug\Negocios.dll
+G:\VII Ciclo\Analisis y diseño de sistemas\Sis_SAV\Negocios\bin\Debug\Negocios.pdb
+G:\VII Ciclo\Analisis y diseño de sistemas\Sis_SAV\Negocios\obj\Debug\ResolveAssemblyReference.cache
+G:\VII Ciclo\Analisis y diseño de sistemas\Sis_SAV\Negocios\obj\Debug\Negocios.dll
+G:\VII Ciclo\Analisis y diseño de sistemas\Sis_SAV\Negocios\obj\Debug\Negocios.pdb
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Negocios.dll
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Negocios.pdb
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Acceso_Datos.dll
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Entidades.dll
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Acceso_Datos.pdb
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Entidades.pdb
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\obj\Debug\ResolveAssemblyReference.cache
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\obj\Debug\Negocios.dll
+G:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\obj\Debug\Negocios.pdb
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Negocios.dll
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Negocios.pdb
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Acceso_Datos.dll
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Entidades.dll
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Acceso_Datos.pdb
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Entidades.pdb
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\obj\Debug\ResolveAssemblyReference.cache
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\obj\Debug\Negocios.dll
+H:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\obj\Debug\Negocios.pdb
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Negocios.dll
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Negocios.pdb
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Acceso_Datos.dll
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Entidades.dll
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Acceso_Datos.pdb
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Entidades.pdb
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\obj\Debug\ResolveAssemblyReference.cache
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\obj\Debug\Negocios.dll
+F:\VII Ciclo\Analisis y diseño de sistemas\Sistema de Ventas SAV\Sis_SAV\Negocios\obj\Debug\Negocios.pdb
+D:\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Negocios.dll
+D:\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Negocios.pdb
+D:\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Acceso_Datos.dll
+D:\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Entidades.dll
+D:\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Acceso_Datos.pdb
+D:\Sistema de Ventas SAV\Sis_SAV\Negocios\bin\Debug\Entidades.pdb
+D:\Sistema de Ventas SAV\Sis_SAV\Negocios\obj\Debug\ResolveAssemblyReference.cache
+D:\Sistema de Ventas SAV\Sis_SAV\Negocios\obj\Debug\Negocios.dll
+D:\Sistema de Ventas SAV\Sis_SAV\Negocios\obj\Debug\Negocios.pdb
+D:\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Negocios.dll
+D:\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Negocios.pdb
+D:\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Acceso_Datos.dll
+D:\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Entidades.dll
+D:\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Acceso_Datos.pdb
+D:\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Entidades.pdb
+D:\Sistema de Ventas SAV\Sis_SAV.2\Negocios\obj\Debug\ResolveAssemblyReference.cache
+D:\Sistema de Ventas SAV\Sis_SAV.2\Negocios\obj\Debug\Negocios.dll
+D:\Sistema de Ventas SAV\Sis_SAV.2\Negocios\obj\Debug\Negocios.pdb
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Negocios.dll
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Negocios.pdb
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Acceso_Datos.dll
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Entidades.dll
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Acceso_Datos.pdb
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Entidades.pdb
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\obj\Debug\ResolveAssemblyReference.cache
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\obj\Debug\Negocios.dll
+E:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\obj\Debug\Negocios.pdb
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Negocios.dll
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Negocios.pdb
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Acceso_Datos.dll
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Entidades.dll
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Acceso_Datos.pdb
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Entidades.pdb
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\obj\Debug\ResolveAssemblyReference.cache
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\obj\Debug\Negocios.dll
+D:\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\obj\Debug\Negocios.pdb
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Negocios.dll
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Negocios.pdb
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Acceso_Datos.dll
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Entidades.dll
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Acceso_Datos.pdb
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Entidades.pdb
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\obj\Debug\ResolveAssemblyReference.cache
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\obj\Debug\Negocios.dll
+D:\VII Ciclo\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\obj\Debug\Negocios.pdb
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Negocios.dll
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Negocios.pdb
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Acceso_Datos.dll
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Entidades.dll
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Acceso_Datos.pdb
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\bin\Debug\Entidades.pdb
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\obj\Debug\ResolveAssemblyReference.cache
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\obj\Debug\Negocios.dll
+D:\UAP\SIS SAV 6.0\Sistema de Ventas SAV\Sis_SAV.2\Negocios\obj\Debug\Negocios.pdb
