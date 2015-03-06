@@ -1,0 +1,8 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pruebadegetsetydemas\Pruebadegetsetydemas\bin\Debug\Pruebadegetsetydemas.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pruebadegetsetydemas\Pruebadegetsetydemas\bin\Debug\Pruebadegetsetydemas.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pruebadegetsetydemas\Pruebadegetsetydemas\obj\x86\Debug\Pruebadegetsetydemas.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pruebadegetsetydemas\Pruebadegetsetydemas\obj\x86\Debug\Pruebadegetsetydemas.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pruebadegetsetydemas\Pruebadegetsetydemas\obj\x86\Debug\Pruebadegetsetydemas.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Desktop\Pruebadegetsetydemas\Pruebadegetsetydemas\obj\x86\Debug\Pruebadegetsetydemas.exe
+C:\Users\AndreuDekker\Desktop\Pruebadegetsetydemas\Pruebadegetsetydemas\obj\x86\Debug\Pruebadegetsetydemas.pdb
+C:\Users\AndreuDekker\Desktop\Pruebadegetsetydemas\Pruebadegetsetydemas\obj\x86\Debug\Pruebadegetsetydemas.csprojResolveAssemblyReference.cache

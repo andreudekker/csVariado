@@ -1,0 +1,7 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ClasesAbstractas\ClasesAbstractas\bin\Debug\ClasesAbstractas.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ClasesAbstractas\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ClasesAbstractas\ClasesAbstractas\obj\x86\Debug\ClasesAbstractas.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ClasesAbstractas\ClasesAbstractas\obj\x86\Debug\ClasesAbstractas.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\ClasesAbstractas\ClasesAbstractas\obj\x86\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Desktop\ClasesAbstractas\ClasesAbstractas\obj\x86\Debug\ClasesAbstractas.exe
+C:\Users\AndreuDekker\Desktop\ClasesAbstractas\ClasesAbstractas\obj\x86\Debug\ClasesAbstractas.pdb

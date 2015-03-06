@@ -1,0 +1,10 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\p\p\bin\Debug\p.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\p\p\bin\Debug\p.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\p\p\obj\x86\Debug\p.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\p\p\obj\x86\Debug\p.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\p\p\obj\x86\Debug\p.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Desktop\p\p\obj\x86\Debug\p.exe
+C:\Users\AndreuDekker\Desktop\p\p\obj\x86\Debug\p.pdb
+C:\Users\AndreuDekker\Desktop\p\p\obj\x86\Debug\p.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Desktop\p\p\bin\Debug\p.exe
+C:\Users\AndreuDekker\Desktop\p\p\bin\Debug\p.pdb

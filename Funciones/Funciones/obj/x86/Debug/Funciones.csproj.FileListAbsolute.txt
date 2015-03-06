@@ -1,0 +1,9 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Funciones\Funciones\bin\Debug\Funciones.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Funciones\Funciones\bin\Debug\Funciones.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Funciones\Funciones\obj\x86\Debug\Funciones.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Funciones\Funciones\obj\x86\Debug\Funciones.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Funciones\Funciones\bin\Debug\Funciones.exe.config
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Funciones\Funciones\obj\x86\Debug\Funciones.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Desktop\Funciones\Funciones\bin\Debug\Funciones.exe.config
+C:\Users\AndreuDekker\Desktop\Funciones\Funciones\obj\x86\Debug\Funciones.exe
+C:\Users\AndreuDekker\Desktop\Funciones\Funciones\obj\x86\Debug\Funciones.pdb

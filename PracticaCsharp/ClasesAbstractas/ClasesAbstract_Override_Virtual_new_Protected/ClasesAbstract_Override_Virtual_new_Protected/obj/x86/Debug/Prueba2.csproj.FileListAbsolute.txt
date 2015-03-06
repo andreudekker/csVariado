@@ -1,0 +1,4 @@
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Prueba2\bin\Debug\Prueba2.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Prueba2\bin\Debug\Prueba2.pdb
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Prueba2\obj\x86\Debug\Prueba2.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\Prueba2\obj\x86\Debug\Prueba2.pdb

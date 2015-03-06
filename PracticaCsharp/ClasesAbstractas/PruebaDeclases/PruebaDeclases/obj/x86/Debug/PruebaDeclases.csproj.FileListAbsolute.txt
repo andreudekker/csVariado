@@ -1,0 +1,11 @@
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\PruebaDeclases\bin\Debug\PruebaDeclases.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\PruebaDeclases\bin\Debug\PruebaDeclases.pdb
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\PruebaDeclases\obj\x86\Debug\PruebaDeclases.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\PruebaDeclases\obj\x86\Debug\PruebaDeclases.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\PruebaDeclases\PruebaDeclases\obj\x86\Debug\PruebaDeclases.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\PruebaDeclases\PruebaDeclases\obj\x86\Debug\PruebaDeclases.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\PruebaDeclases\PruebaDeclases\bin\Debug\PruebaDeclases.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\PruebaDeclases\PruebaDeclases\bin\Debug\PruebaDeclases.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\PruebaDeclases\PruebaDeclases\obj\x86\Debug\PruebaDeclases.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Desktop\PruebaDeclases\PruebaDeclases\obj\x86\Debug\PruebaDeclases.exe
+C:\Users\AndreuDekker\Desktop\PruebaDeclases\PruebaDeclases\obj\x86\Debug\PruebaDeclases.pdb

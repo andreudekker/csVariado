@@ -1,0 +1,4 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pruebadegetsetydemas\Pruebadegetsetydemas\bin\Release\Pruebadegetsetydemas.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pruebadegetsetydemas\Pruebadegetsetydemas\bin\Release\Pruebadegetsetydemas.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pruebadegetsetydemas\Pruebadegetsetydemas\obj\x86\Release\Pruebadegetsetydemas.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\Proyecto_20Videos\Pruebadegetsetydemas\Pruebadegetsetydemas\obj\x86\Release\Pruebadegetsetydemas.pdb

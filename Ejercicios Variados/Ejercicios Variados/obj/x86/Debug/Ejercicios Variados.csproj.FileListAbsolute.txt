@@ -1,0 +1,12 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Ejercicios Variados\Ejercicios Variados\bin\Debug\Ejercicios Variados.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Ejercicios Variados\Ejercicios Variados\bin\Debug\Ejercicios Variados.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Ejercicios Variados\Ejercicios Variados\obj\x86\Debug\Ejercicios Variados.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Ejercicios Variados\Ejercicios Variados\obj\x86\Debug\Ejercicios Variados.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Ejercicios Variados\Ejercicios Variados\obj\x86\Debug\Ejercicios Variados.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Desktop\Ejercicios Variados\Ejercicios Variados\obj\x86\Debug\Ejercicios Variados.exe
+C:\Users\AndreuDekker\Desktop\Ejercicios Variados\Ejercicios Variados\obj\x86\Debug\Ejercicios Variados.pdb
+C:\Users\AndreuDekker\Desktop\Ejercicios Variados\Ejercicios Variados\bin\Debug\Ejercicios Variados.exe
+C:\Users\AndreuDekker\Desktop\Ejercicios Variados\Ejercicios Variados\bin\Debug\Ejercicios Variados.pdb
+C:\Users\AndreuDekker\Desktop\Ejercicios Variados\Ejercicios Variados\obj\x86\Debug\Ejercicios Variados.csprojResolveAssemblyReference.cache
+D:\CodigoenPrueba\Ejercicios Variados\Ejercicios Variados\obj\x86\Debug\Ejercicios Variados.exe
+D:\CodigoenPrueba\Ejercicios Variados\Ejercicios Variados\obj\x86\Debug\Ejercicios Variados.pdb

@@ -1,0 +1,12 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Practica\Practica\bin\Debug\Practica.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Practica\Practica\bin\Debug\Practica.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Practica\Practica\obj\x86\Debug\Practica.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Practica\Practica\obj\x86\Debug\Practica.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\Practica\Practica\obj\x86\Debug\Practica.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Desktop\Practica\Practica\obj\x86\Debug\Practica.exe
+C:\Users\AndreuDekker\Desktop\Practica\Practica\obj\x86\Debug\Practica.pdb
+D:\CodigoenPrueba\Practica\Practica\obj\x86\Debug\Practica.exe
+D:\CodigoenPrueba\Practica\Practica\obj\x86\Debug\Practica.pdb
+D:\CodigoenPrueba\Practica\Practica\bin\Debug\Practica.exe
+D:\CodigoenPrueba\Practica\Practica\bin\Debug\Practica.pdb
+D:\CodigoenPrueba\Practica\Practica\obj\x86\Debug\Practica.csprojResolveAssemblyReference.cache

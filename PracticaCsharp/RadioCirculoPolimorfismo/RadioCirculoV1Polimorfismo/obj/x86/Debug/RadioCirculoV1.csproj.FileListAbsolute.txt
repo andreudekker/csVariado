@@ -1,0 +1,10 @@
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\RadioCirculoV1\RadioCirculoV1\bin\Debug\RadioCirculoV1.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\RadioCirculoV1\RadioCirculoV1\bin\Debug\RadioCirculoV1.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\RadioCirculoV1\RadioCirculoV1\obj\x86\Debug\RadioCirculoV1.exe
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\RadioCirculoV1\RadioCirculoV1\obj\x86\Debug\RadioCirculoV1.pdb
+C:\Users\AndreuDekker\Documents\Visual Studio 2010\Projects\MisEjercicios\RadioCirculoV1\RadioCirculoV1\obj\x86\Debug\RadioCirculoV1.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Desktop\RadioCirculoV1\RadioCirculoV1\obj\x86\Debug\RadioCirculoV1.exe
+C:\Users\AndreuDekker\Desktop\RadioCirculoV1\RadioCirculoV1\obj\x86\Debug\RadioCirculoV1.pdb
+C:\Users\AndreuDekker\Desktop\RadioCirculoV1\RadioCirculoV1\obj\x86\Debug\RadioCirculoV1.csprojResolveAssemblyReference.cache
+C:\Users\AndreuDekker\Desktop\RadioCirculoV1\RadioCirculoV1\bin\Debug\RadioCirculoV1.exe
+C:\Users\AndreuDekker\Desktop\RadioCirculoV1\RadioCirculoV1\bin\Debug\RadioCirculoV1.pdb

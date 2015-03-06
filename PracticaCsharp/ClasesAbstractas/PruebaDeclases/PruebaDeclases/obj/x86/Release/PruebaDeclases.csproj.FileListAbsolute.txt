@@ -1,0 +1,4 @@
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\PruebaDeclases\bin\Release\PruebaDeclases.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\PruebaDeclases\bin\Release\PruebaDeclases.pdb
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\PruebaDeclases\obj\x86\Release\PruebaDeclases.exe
+C:\Users\AndreuDekker\AppData\Local\Temporary Projects\PruebaDeclases\obj\x86\Release\PruebaDeclases.pdb
